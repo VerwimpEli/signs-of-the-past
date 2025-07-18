@@ -1,0 +1,63 @@
+exp_id;condor_job;run;img_type;provenience;min_nb_img;img_size;model;init_model;optim;sched;batch_size;num_epochs;test_img_type;augmentations;notes
+1;1;0;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;trained_on_v5
+2;1;0;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v6
+3;1;0;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+4;1;0;ColorA;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+5;1;0;Color00;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+6;1;0;Color00;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;ColorOO norm
+7;1;0;SketchA;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+8;1;5;Normal;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+9;1;5;ColorB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+10;1;5;ColorC;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+11;1;5;ColorD;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+12;1;5;ColorE;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+13;1;5;ColorF;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+14;1;5;ColorG;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+15;1;5;ColorH;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;v7
+16;1;2;SketchB ColorA;HS CUNES;20;128;resnet18;;adam;cos;128;30;SketchB;default;v7
+18;1;2;ColorA ColorB;HS CUNES;20;128;resnet18;;adam;cos;128;30;ColorA;default;v7
+17;1;2;ColorA ColorE;HS CUNES;20;128;resnet18;;adam;cos;128;30;ColorA;default;v7
+19;1;5;ColorA;HS CUNES;20;128;resnet18;;adam;cos;128;30;;default;ColorA-H norm
+20;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug;Rotation 0.5
+21;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug2;Rotation + perspective
+22;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug3;Rotation + jitter
+23;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug4;Rot + pers + jit
+24;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug;Rotation 0.5
+25;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug2;Rot 0.5 persp. 0.5
+26;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug3;Affine 1 p0.5
+27;1;5;SketchB;HS CUNES;20;128;resnet18;;adam;cos;128;30;;debug4;Affine 2 p1.0
+28;1;5;SketchB;HS CUNES;20;128;resnet50;;adam;cos;64;30;;rot_pers;
+29;1;5;SketchB;HS CUNES;20;128;resnext50;;adam;cos;64;30;;rot_pers;
+30;1;5;SketchB;HS CUNES;20;224;resnet18;;adam;cos;64;30;;rot_pers;
+31;1;5;SketchB;HS CUNES;20;224;resnet50;;adam;cos;64;30;;rot_pers;
+32;1;5;SketchB;HS CUNES;20;224;resnext50;;adam;cos;64;30;;rot_pers;
+33;1;5;SketchB;HS CUNES;20;224;resnet50;;adam;cos;64;30;;rot_pers;Coco split
+34;1;5;SketchB;CUNES;20;224;resnet50;;adam;cos;64;30;;rot_pers;CUNES only
+35;1;5;SketchB;HS;20;224;resnet50;;adam;cos;64;30;;rot_pers;HS only
+36;1;5;SketchB;HS CUNES;20;224;resnet50;;adam;cos;64;30;;rot_pers;repeat 31 with VAT/O
+37;1;5;SketchB;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;HS/CUNES/VAT
+38;1;1;SketchB;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;debug3;Blur (7, 7) aug
+39;1;4;SketchB;VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;VAT only
+40;1;4;SketchB;HS VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;HS/VAT
+41;1;4;SketchB;CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;CUNES/VAT
+42;1;5;ColorA;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorA Resnet50
+43;1;5;ColorA;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;grayscale;Gray (mean) ColorA
+44;1;5;ColorB;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorB Resnet50
+45;1;4;ColorC;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorC Resnet50
+46;1;5;ColorD;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorD Resnet50
+47;1;5;ColorE;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorE Resnet50
+48;1;5;ColorF;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorF Resnet50
+49;1;5;ColorG;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorG Resnet50
+50;1;5;ColorH;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;ColorH Resnet50
+51;1;5;Normal;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;Normal Resnet50
+52;1;5;SketchA;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;SketchA Resnet50
+53;1;5;Color00;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;Color00 Resnet50
+54;1;5;normal;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;normal png
+55;0;0;normalC;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;normalC png
+56;1;1;SketchB;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;Coco HS/CUNES/VAT
+57;1;5;SketchB;CUNES;20;224;resnet50;37.0;adam_ft;cos_ft;64;10;;base;FT Cunes
+58;1;5;SketchB;HS CUNES VAT;20;224;resnet50;37.0;adam_ft;cos_ft;64;10;;base;FT all
+59;1;5;SketchB;HS;20;224;resnet50;37.0;adam_ft;cos_ft;64;10;;base;FT HS
+60;1;5;SketchB;VAT;20;224;resnet50;37.0;adam_ft;cos_ft;64;10;;base;FT VAT
+61;1;1;Normal;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;debug3;Channel permute
+62;0;1;ColorA;HS CUNES VAT;20;224;resnet50;;adam;cos;64;30;;rot_pers;Coco ColorA HS/CUNES/VAT

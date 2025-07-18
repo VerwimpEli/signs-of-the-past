@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc2c6d74-3be6-442d-b584-70569ca591ae" name="Changes" comment="Commit before major refactor." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VerwimpEli&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VerwimpEli/Cune-IIIF-form.git&quot;,
+    &quot;accountId&quot;: &quot;0bb61bfd-6e17-4406-8806-16c05d01ada3&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.miniconda3/envs/cl/lib/python3.11/site-packages/pycocotools/cocoeval.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tfy3u4gazfYVtV1GjTY1EBJIQi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.analysis.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.annot_tests.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.classification_tool.executor&quot;: &quot;Coverage&quot;,
+    &quot;Python.detection_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normals.executor&quot;: &quot;Profiler&quot;,
+    &quot;Python.prepare_class_data.executor&quot;: &quot;Coverage&quot;,
+    &quot;Python.scratch_transliter.executor&quot;: &quot;Profiler&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Semicolon-separated_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Semicolon-separated_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last.edited.regexp&quot;: &quot;O_204&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/everwimpl/Documents/cuneiform/signs_of_the_past/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/evaluation" />
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/output" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.annot_tests">
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="annot_tests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/annot_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="annot_tests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/annot_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detection_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detection_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detection_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cune-IIIF-form" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detection_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.annot_tests" />
+      <item itemvalue="Python.analysis" />
+      <item itemvalue="Python.detection_analysis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detection_analysis" />
+        <item itemvalue="Python.analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc2c6d74-3be6-442d-b584-70569ca591ae" name="Changes" comment="" />
+      <created>1740757227338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740757227338</updated>
+      <workItem from="1740757228365" duration="2213000" />
+      <workItem from="1740932251323" duration="14000" />
+      <workItem from="1740932614216" duration="11044000" />
+      <workItem from="1741004444999" duration="16000" />
+      <workItem from="1741005129077" duration="21665000" />
+      <workItem from="1741163036287" duration="5074000" />
+      <workItem from="1741168367449" duration="28451000" />
+      <workItem from="1741266925324" duration="5212000" />
+      <workItem from="1741339091774" duration="13458000" />
+      <workItem from="1741363553560" duration="4481000" />
+      <workItem from="1741442699277" duration="5000" />
+      <workItem from="1741595048215" duration="23679000" />
+      <workItem from="1741625264992" duration="5110000" />
+      <workItem from="1741688353263" duration="9749000" />
+      <workItem from="1741770418796" duration="10679000" />
+      <workItem from="1741792285632" duration="1499000" />
+      <workItem from="1741854171787" duration="27424000" />
+      <workItem from="1741960749461" duration="28682000" />
+      <workItem from="1742283716398" duration="14618000" />
+      <workItem from="1742304014933" duration="8623000" />
+      <workItem from="1742372994326" duration="11864000" />
+      <workItem from="1742387354266" duration="11906000" />
+      <workItem from="1742406787978" duration="256000" />
+      <workItem from="1742460053287" duration="10645000" />
+      <workItem from="1742478330591" duration="1813000" />
+      <workItem from="1742481204208" duration="26887000" />
+      <workItem from="1742805197386" duration="6193000" />
+      <workItem from="1742814056450" duration="4185000" />
+      <workItem from="1742821269859" duration="9974000" />
+      <workItem from="1742890905224" duration="1321000" />
+      <workItem from="1742895031711" duration="14966000" />
+      <workItem from="1743070388179" duration="16403000" />
+      <workItem from="1743087741750" duration="4132000" />
+      <workItem from="1743092523173" duration="3782000" />
+      <workItem from="1743097537411" duration="794000" />
+      <workItem from="1743101726243" duration="23188000" />
+      <workItem from="1743430115660" duration="12017000" />
+      <workItem from="1743496045002" duration="22743000" />
+      <workItem from="1743578491254" duration="53969000" />
+      <workItem from="1743835379945" duration="21115000" />
+      <workItem from="1744013294060" duration="12108000" />
+      <workItem from="1744027754498" duration="11831000" />
+      <workItem from="1744042804660" duration="373000" />
+      <workItem from="1744093183441" duration="27406000" />
+      <workItem from="1744189667943" duration="53148000" />
+      <workItem from="1744618685976" duration="10345000" />
+      <workItem from="1744707473870" duration="14475000" />
+      <workItem from="1744796762144" duration="18592000" />
+      <workItem from="1744873778876" duration="24861000" />
+      <workItem from="1744964809037" duration="4517000" />
+      <workItem from="1744969901720" duration="17184000" />
+      <workItem from="1745057069553" duration="593000" />
+      <workItem from="1745305227504" duration="14000000" />
+      <workItem from="1745321442919" duration="12214000" />
+      <workItem from="1745336035878" duration="29391000" />
+      <workItem from="1745429081572" duration="484000" />
+      <workItem from="1745476599489" duration="32258000" />
+      <workItem from="1745587501267" duration="72847000" />
+      <workItem from="1745998973232" duration="37016000" />
+      <workItem from="1746193185024" duration="12035000" />
+      <workItem from="1746210838996" duration="4603000" />
+      <workItem from="1746426764468" duration="14685000" />
+      <workItem from="1746447022377" duration="10384000" />
+      <workItem from="1746517708407" duration="51874000" />
+      <workItem from="1746703145321" duration="33273000" />
+      <workItem from="1747065172207" duration="3332000" />
+      <workItem from="1747121229035" duration="28311000" />
+      <workItem from="1747154255431" duration="534000" />
+      <workItem from="1747158629490" duration="56673000" />
+      <workItem from="1747407606807" duration="6235000" />
+      <workItem from="1747649585406" duration="15328000" />
+      <workItem from="1747726075240" duration="2106000" />
+      <workItem from="1747730780007" duration="18019000" />
+      <workItem from="1747812151632" duration="42635000" />
+      <workItem from="1747930090363" duration="1727000" />
+      <workItem from="1747945429550" duration="1871000" />
+      <workItem from="1747983157611" duration="26007000" />
+      <workItem from="1748247223234" duration="18038000" />
+      <workItem from="1748275097256" duration="25000" />
+      <workItem from="1748275365704" duration="25559000" />
+      <workItem from="1748417769963" duration="57469000" />
+      <workItem from="1748941150411" duration="81870000" />
+      <workItem from="1749539928264" duration="6016000" />
+      <workItem from="1749562542052" duration="14951000" />
+      <workItem from="1749713366370" duration="3436000" />
+      <workItem from="1749732413801" duration="2809000" />
+      <workItem from="1749743914667" duration="14785000" />
+      <workItem from="1750144465539" duration="4694000" />
+      <workItem from="1750238671628" duration="5910000" />
+      <workItem from="1750318441555" duration="16458000" />
+      <workItem from="1750668507555" duration="17207000" />
+      <workItem from="1750775110462" duration="16650000" />
+      <workItem from="1750863681563" duration="1374000" />
+      <workItem from="1750929179089" duration="31524000" />
+      <workItem from="1751026732982" duration="5012000" />
+      <workItem from="1751282852669" duration="154000" />
+      <workItem from="1751287685750" duration="9155000" />
+      <workItem from="1751362096465" duration="1598000" />
+      <workItem from="1751364250479" duration="15623000" />
+      <workItem from="1751437593809" duration="26278000" />
+      <workItem from="1752062366975" duration="701000" />
+      <workItem from="1752063199331" duration="120189000" />
+      <workItem from="1752829541888" duration="491000" />
+      <workItem from="1752830044917" duration="426000" />
+      <workItem from="1752830645685" duration="181000" />
+      <workItem from="1752830852193" duration="648000" />
+    </task>
+    <task id="LOCAL-00001" summary="Loads of updates. All current detection code is included. Push before refactor for easy analysis and dataset installation.">
+      <option name="closed" value="true" />
+      <created>1744127904311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744127904311</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updates 22/04">
+      <option name="closed" value="true" />
+      <created>1745320558410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745320558410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working TSNE feature analysis, fixed bug in conversion from old dataset">
+      <option name="closed" value="true" />
+      <created>1745394275268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745394275268</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lots of detection updates. Before TSNE re-factor.">
+      <option name="closed" value="true" />
+      <created>1746448214126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746448214126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TSNE re-factor">
+      <option name="closed" value="true" />
+      <created>1746604067797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746604067797</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TSNE update + code for VAT and O signs">
+      <option name="closed" value="true" />
+      <created>1747045371920</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747045371920</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Grayscale and analysis code. Commit before refactor of analysis to implement filter based on meta.">
+      <option name="closed" value="true" />
+      <created>1747985436229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747985436229</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update classification tool. Normal utilities scratch version.">
+      <option name="closed" value="true" />
+      <created>1748371706088</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748371706088</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix class tool.">
+      <option name="closed" value="true" />
+      <created>1748372279023</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748372279023</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update download method of prepare_class_data.py to grab url's from the annotations.">
+      <option name="closed" value="true" />
+      <created>1749044644481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044644481</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bug fix prepare_class_data.py">
+      <option name="closed" value="true" />
+      <created>1749048194473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749048194473</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Cleaning up of code concerning normal maps. Gradio app first tests.">
+      <option name="closed" value="true" />
+      <created>1749632465887</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749632465887</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixes classification_tool.py">
+      <option name="closed" value="true" />
+      <created>1750319164731</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750319164731</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixes classification_tool.py">
+      <option name="closed" value="true" />
+      <created>1750319338561</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750319338561</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit before major refactor.">
+      <option name="closed" value="true" />
+      <created>1750929237092</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750929237092</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Loads of updates. All current detection code is included. Push before refactor for easy analysis and dataset installation." />
+    <MESSAGE value="Updates 22/04" />
+    <MESSAGE value="Working TSNE feature analysis, fixed bug in conversion from old dataset" />
+    <MESSAGE value="Lots of detection updates. Before TSNE re-factor." />
+    <MESSAGE value="TSNE re-factor" />
+    <MESSAGE value="TSNE update + code for VAT and O signs" />
+    <MESSAGE value="Grayscale and analysis code. Commit before refactor of analysis to implement filter based on meta." />
+    <MESSAGE value="Update classification tool. Normal utilities scratch version." />
+    <MESSAGE value="Fix class tool." />
+    <MESSAGE value="Update download method of prepare_class_data.py to grab url's from the annotations." />
+    <MESSAGE value="Bug fix prepare_class_data.py" />
+    <MESSAGE value="Cleaning up of code concerning normal maps. Gradio app first tests." />
+    <MESSAGE value="Fixes classification_tool.py" />
+    <MESSAGE value="Commit before major refactor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit before major refactor." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="python-exception">
+          <properties notifyOnlyOnFirst="true" notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+            <option name="notifyOnlyOnFirst" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Cune_IIIF_form$detection_analysis.coverage" NAME="detection_analysis Coverage Results" MODIFIED="1747413314730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cune_IIIF_form$prepare_class_data.coverage" NAME="prepare_class_data Coverage Results" MODIFIED="1744372657503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cune_IIIF_form$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1741596596834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cune_IIIF_form$classification_tool.coverage" NAME="classification_tool Coverage Results" MODIFIED="1749037935733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cune_IIIF_form$annot_tests.coverage" NAME="annot_tests Coverage Results" MODIFIED="1745998832207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
