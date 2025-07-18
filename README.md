@@ -2,7 +2,7 @@
 This repository contains the source code for our paper: "Signs of the Past, Patterns of the Present: On the Automatic
 Classification of Old Babylonian Cuneiform Signs."
 
-<img src="./static/examples.png" alt="Examples of our results" style="width: 70%">
+<img src="./static/examples.png" alt="Examples of our results" style="width: 100%">
 
 ### 🤗 Check our interactive demo on Hugging Face!
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-lg.svg)](https://huggingface.co/spaces/verwimpe/Cune-AI-form)
