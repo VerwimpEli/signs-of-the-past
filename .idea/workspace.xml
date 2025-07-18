@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2c6d74-3be6-442d-b584-70569ca591ae" name="Changes" comment="Commit before major refactor." />
+    <list default="true" id="bc2c6d74-3be6-442d-b584-70569ca591ae" name="Changes" comment="Commit before major refactor.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,33 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.analysis.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.annot_tests.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.classification_tool.executor&quot;: &quot;Coverage&quot;,
-    &quot;Python.detection_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.normals.executor&quot;: &quot;Profiler&quot;,
-    &quot;Python.prepare_class_data.executor&quot;: &quot;Coverage&quot;,
-    &quot;Python.scratch_transliter.executor&quot;: &quot;Profiler&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Semicolon-separated_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Semicolon-separated_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last.edited.regexp&quot;: &quot;O_204&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/everwimpl/Documents/cuneiform/signs_of_the_past/code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.analysis.executor": "Debug",
+    "Python.annot_tests.executor": "Debug",
+    "Python.classification_tool.executor": "Coverage",
+    "Python.detection_analysis.executor": "Run",
+    "Python.normals.executor": "Profiler",
+    "Python.prepare_class_data.executor": "Coverage",
+    "Python.scratch_transliter.executor": "Profiler",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Semicolon-separated_id",
+    "database.data.extractors.current.id": "Semicolon-separated_id",
+    "git-widget-placeholder": "main",
+    "last.edited.regexp": "O_204",
+    "last_opened_file_path": "/home/everwimpl/Documents/cuneiform/signs_of_the_past/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
   </component>
@@ -369,6 +371,7 @@
       <workItem from="1752830044917" duration="426000" />
       <workItem from="1752830645685" duration="181000" />
       <workItem from="1752830852193" duration="648000" />
+      <workItem from="1752832832265" duration="518000" />
     </task>
     <task id="LOCAL-00001" summary="Loads of updates. All current detection code is included. Push before refactor for easy analysis and dataset installation.">
       <option name="closed" value="true" />
